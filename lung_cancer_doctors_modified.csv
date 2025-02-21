@@ -1,0 +1,291 @@
+Doctor Name,Specialization,Availability (Days),Hospital Name,State,Village/Town,Contact Number
+Dr. Arjun Babu,Adenocarcinoma,"Wed, Sat",HCG Cancer Centre,Andhra Pradesh,Village C,+91 8931603492
+Dr. Meera Reddy,Adenocarcinoma,"Tue, Thu, Sat",Fortis Oncology Center,Andhra Pradesh,City G,+91 8270336489
+Dr. Ramesh Patel,Small Cell Lung Cancer,"Tue, Thu, Sat",Manipal Hospitals,Andhra Pradesh,Village C,+91 8641565616
+Dr. Prakash Babu,Adenocarcinoma,"Tue, Thu, Sat",AIIMS Cancer Center,Andhra Pradesh,City D,+91 6496363226
+Dr. Suresh Kumar,Squamous Cell Carcinoma,"Tue, Thu",Fortis Oncology Center,Andhra Pradesh,City A,+91 7833759853
+Dr. Anjali Iyer,Adenocarcinoma,Mon-Sat,Manipal Hospitals,Andhra Pradesh,City A,+91 7701577186
+Dr. Anjali Babu,Large Cell Carcinoma,"Tue, Thu, Sat",NIMS Hospital,Andhra Pradesh,Village I,+91 9324717277
+Dr. Sneha Sharma,Squamous Cell Carcinoma,"Wed, Sat",KIMS Hospital,Andhra Pradesh,Village C,+91 7180031529
+Dr. Kavita Patel,Small Cell Lung Cancer,"Tue, Thu, Sat",Apollo Cancer Institute,Andhra Pradesh,City A,+91 9422372981
+Dr. Kavita Gupta,Small Cell Lung Cancer,Mon-Sat,AIIMS Cancer Center,Andhra Pradesh,City J,+91 8414174908
+Dr. Suresh Iyer,Small Cell Lung Cancer,Mon-Sat,Max Super Specialty Hospital,Arunachal Pradesh,City A,+91 6812520131
+Dr. Ramesh Kumar,Adenocarcinoma,Mon-Sat,NIMS Hospital,Arunachal Pradesh,Town B,+91 6664988236
+Dr. Ramesh Iyer,Small Cell Lung Cancer,Mon-Sat,HCG Cancer Centre,Arunachal Pradesh,City A,+91 6921846010
+Dr. Ramesh Sharma,Small Cell Lung Cancer,"Wed, Sat",NIMS Hospital,Arunachal Pradesh,Village I,+91 7090235366
+Dr. Anjali Gupta,Large Cell Carcinoma,"Tue, Thu, Sat",Manipal Hospitals,Arunachal Pradesh,City D,+91 6162071806
+Dr. Kavita Babu,Small Cell Lung Cancer,"Wed, Sat",Max Super Specialty Hospital,Arunachal Pradesh,City G,+91 8145537811
+Dr. Sneha Kumar,Small Cell Lung Cancer,Mon-Sat,NIMS Hospital,Arunachal Pradesh,Town B,+91 8180497967
+Dr. Meera Reddy,Adenocarcinoma,"Tue, Thu",AIIMS Cancer Center,Arunachal Pradesh,Town B,+91 8298218278
+Dr. Meera Reddy,Small Cell Lung Cancer,"Tue, Thu",AIIMS Cancer Center,Arunachal Pradesh,Village C,+91 8789305203
+Dr. Anjali Babu,Small Cell Lung Cancer,"Wed, Sat",Apollo Cancer Institute,Arunachal Pradesh,Village F,+91 8908359969
+Dr. Arjun Babu,Squamous Cell Carcinoma,"Mon, Wed, Fri",HCG Cancer Centre,Assam,Village F,+91 8298080421
+Dr. Meera Gupta,Squamous Cell Carcinoma,"Mon, Wed, Fri",Medanta Cancer Institute,Assam,City D,+91 8770648459
+Dr. Arjun Verma,Large Cell Carcinoma,"Tue, Thu, Sat",Apollo Cancer Institute,Assam,Town B,+91 6717855030
+Dr. Vikram Kumar,Squamous Cell Carcinoma,"Tue, Thu, Sat",KIMS Hospital,Assam,Town B,+91 7663240120
+Dr. Anjali Reddy,Squamous Cell Carcinoma,"Tue, Thu, Sat",HCG Cancer Centre,Assam,Town E,+91 8719788290
+Dr. Anjali Sharma,Adenocarcinoma,"Wed, Sat",Fortis Oncology Center,Assam,Village F,+91 8449031062
+Dr. Anjali Iyer,Large Cell Carcinoma,"Tue, Thu, Sat",Max Super Specialty Hospital,Assam,Village F,+91 8859655021
+Dr. Suresh Das,Small Cell Lung Cancer,"Wed, Sat",Apollo Cancer Institute,Assam,Village I,+91 6650283184
+Dr. Kavita Reddy,Large Cell Carcinoma,Mon-Sat,Apollo Cancer Institute,Assam,City A,+91 6779434004
+Dr. Kavita Babu,Small Cell Lung Cancer,"Mon, Wed, Fri",Medanta Cancer Institute,Assam,City G,+91 8827329469
+Dr. Sneha Babu,Large Cell Carcinoma,"Wed, Sat",NIMS Hospital,Bihar,Village I,+91 8211014638
+Dr. Rajesh Sharma,Small Cell Lung Cancer,"Mon, Wed, Fri",AIIMS Cancer Center,Bihar,Village I,+91 9712122285
+Dr. Vikram Patel,Small Cell Lung Cancer,"Mon, Wed, Fri",AIIMS Cancer Center,Bihar,Village I,+91 6429502358
+Dr. Meera Babu,Small Cell Lung Cancer,Mon-Sat,Manipal Hospitals,Bihar,Village C,+91 8666444004
+Dr. Prakash Kumar,Squamous Cell Carcinoma,"Mon, Wed, Fri",Fortis Oncology Center,Bihar,Village C,+91 6804249653
+Dr. Prakash Babu,Adenocarcinoma,"Tue, Thu",Manipal Hospitals,Bihar,Town H,+91 9130464648
+Dr. Sneha Gupta,Large Cell Carcinoma,"Wed, Sat",Apollo Cancer Institute,Bihar,Village C,+91 6539848336
+Dr. Prakash Sharma,Squamous Cell Carcinoma,"Wed, Sat",Manipal Hospitals,Bihar,City A,+91 7480954150
+Dr. Sneha Babu,Squamous Cell Carcinoma,"Tue, Thu, Sat",KIMS Hospital,Bihar,Village C,+91 6294190144
+Dr. Sneha Patel,Large Cell Carcinoma,"Mon, Wed, Fri",Tata Memorial Hospital,Bihar,Village I,+91 6792078303
+Dr. Vikram Kumar,Small Cell Lung Cancer,"Tue, Thu, Sat",Max Super Specialty Hospital,Chhattisgarh,City J,+91 7507718442
+Dr. Sneha Patel,Adenocarcinoma,Mon-Sat,NIMS Hospital,Chhattisgarh,Village F,+91 7136914193
+Dr. Ramesh Gupta,Large Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Chhattisgarh,Town B,+91 9921305173
+Dr. Kavita Verma,Squamous Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Chhattisgarh,City G,+91 7631043954
+Dr. Arjun Das,Small Cell Lung Cancer,"Wed, Sat",AIIMS Cancer Center,Chhattisgarh,City D,+91 8608543372
+Dr. Prakash Patel,Squamous Cell Carcinoma,"Tue, Thu",Manipal Hospitals,Chhattisgarh,City J,+91 9014277854
+Dr. Vikram Nair,Squamous Cell Carcinoma,"Wed, Sat",Apollo Cancer Institute,Chhattisgarh,City A,+91 7993986574
+Dr. Kavita Patel,Large Cell Carcinoma,"Tue, Thu, Sat",Manipal Hospitals,Chhattisgarh,Town H,+91 6211857551
+Dr. Arjun Nair,Small Cell Lung Cancer,"Tue, Thu",Apollo Cancer Institute,Chhattisgarh,Village I,+91 6586803916
+Dr. Kavita Iyer,Adenocarcinoma,Mon-Sat,Max Super Specialty Hospital,Chhattisgarh,City A,+91 9432248821
+Dr. Meera Iyer,Adenocarcinoma,Mon-Sat,Fortis Oncology Center,Goa,Town H,+91 6366764029
+Dr. Kavita Verma,Small Cell Lung Cancer,"Mon, Wed, Fri",AIIMS Cancer Center,Goa,Village F,+91 7785866165
+Dr. Arjun Reddy,Squamous Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Goa,Village C,+91 8975130472
+Dr. Kavita Gupta,Large Cell Carcinoma,"Mon, Wed, Fri",Manipal Hospitals,Goa,Town B,+91 8399885289
+Dr. Prakash Babu,Squamous Cell Carcinoma,"Wed, Sat",Fortis Oncology Center,Goa,Town B,+91 7922946416
+Dr. Sneha Sharma,Large Cell Carcinoma,"Mon, Wed, Fri",HCG Cancer Centre,Goa,Town H,+91 6644360470
+Dr. Meera Verma,Small Cell Lung Cancer,Mon-Sat,Manipal Hospitals,Goa,Town E,+91 8458547079
+Dr. Kavita Reddy,Small Cell Lung Cancer,"Tue, Thu, Sat",Manipal Hospitals,Goa,Town E,+91 9656228993
+Dr. Meera Kumar,Small Cell Lung Cancer,"Mon, Wed, Fri",KIMS Hospital,Goa,Town H,+91 9387872201
+Dr. Meera Patel,Large Cell Carcinoma,"Mon, Wed, Fri",Fortis Oncology Center,Goa,City J,+91 8770354438
+Dr. Sneha Patel,Adenocarcinoma,"Wed, Sat",AIIMS Cancer Center,Gujarat,Town B,+91 7755633573
+Dr. Kavita Iyer,Adenocarcinoma,"Tue, Thu, Sat",Tata Memorial Hospital,Gujarat,City A,+91 9612913893
+Dr. Anjali Gupta,Large Cell Carcinoma,"Tue, Thu",AIIMS Cancer Center,Gujarat,City G,+91 6777137517
+Dr. Ramesh Sharma,Large Cell Carcinoma,"Mon, Wed, Fri",Manipal Hospitals,Gujarat,Village F,+91 8638342546
+Dr. Sneha Iyer,Large Cell Carcinoma,"Tue, Thu",KIMS Hospital,Gujarat,City J,+91 7373579815
+Dr. Sneha Kumar,Squamous Cell Carcinoma,"Wed, Sat",Medanta Cancer Institute,Gujarat,City D,+91 7044948929
+Dr. Rajesh Kumar,Small Cell Lung Cancer,Mon-Sat,Medanta Cancer Institute,Gujarat,City G,+91 9569960006
+Dr. Ramesh Verma,Squamous Cell Carcinoma,"Wed, Sat",Manipal Hospitals,Gujarat,Village F,+91 8052168377
+Dr. Prakash Kumar,Large Cell Carcinoma,"Tue, Thu",HCG Cancer Centre,Gujarat,City D,+91 7135507264
+Dr. Rajesh Verma,Squamous Cell Carcinoma,"Mon, Wed, Fri",Manipal Hospitals,Gujarat,Village F,+91 7756382150
+Dr. Arjun Nair,Adenocarcinoma,"Tue, Thu",Medanta Cancer Institute,Haryana,Village C,+91 6382097362
+Dr. Prakash Kumar,Adenocarcinoma,"Tue, Thu",Max Super Specialty Hospital,Haryana,City D,+91 9603556548
+Dr. Meera Kumar,Large Cell Carcinoma,"Wed, Sat",NIMS Hospital,Haryana,Village F,+91 8564925053
+Dr. Arjun Sharma,Large Cell Carcinoma,"Tue, Thu",HCG Cancer Centre,Haryana,City A,+91 6039678151
+Dr. Arjun Verma,Small Cell Lung Cancer,"Tue, Thu, Sat",Max Super Specialty Hospital,Haryana,City J,+91 9221519915
+Dr. Anjali Nair,Small Cell Lung Cancer,"Tue, Thu, Sat",Medanta Cancer Institute,Haryana,Village I,+91 6960894375
+Dr. Anjali Verma,Small Cell Lung Cancer,Mon-Sat,Tata Memorial Hospital,Haryana,Village F,+91 9708495513
+Dr. Prakash Babu,Squamous Cell Carcinoma,"Tue, Thu, Sat",KIMS Hospital,Haryana,City D,+91 9592715955
+Dr. Sneha Patel,Large Cell Carcinoma,Mon-Sat,HCG Cancer Centre,Haryana,Town E,+91 7159223203
+Dr. Suresh Sharma,Squamous Cell Carcinoma,"Mon, Wed, Fri",NIMS Hospital,Haryana,Town E,+91 6050693473
+Dr. Meera Iyer,Adenocarcinoma,"Mon, Wed, Fri",Max Super Specialty Hospital,Himachal Pradesh,Village C,+91 7380086875
+Dr. Anjali Patel,Adenocarcinoma,"Mon, Wed, Fri",AIIMS Cancer Center,Himachal Pradesh,City J,+91 6142029119
+Dr. Kavita Babu,Small Cell Lung Cancer,Mon-Sat,Apollo Cancer Institute,Himachal Pradesh,City J,+91 9950661469
+Dr. Prakash Das,Small Cell Lung Cancer,Mon-Sat,AIIMS Cancer Center,Himachal Pradesh,City A,+91 9303479802
+Dr. Kavita Patel,Squamous Cell Carcinoma,"Tue, Thu",NIMS Hospital,Himachal Pradesh,Town E,+91 8354906732
+Dr. Rajesh Iyer,Squamous Cell Carcinoma,Mon-Sat,Fortis Oncology Center,Himachal Pradesh,Village I,+91 7899369994
+Dr. Meera Patel,Adenocarcinoma,Mon-Sat,Apollo Cancer Institute,Himachal Pradesh,Town H,+91 9609425213
+Dr. Prakash Babu,Adenocarcinoma,"Tue, Thu, Sat",Apollo Cancer Institute,Himachal Pradesh,Village C,+91 9313211889
+Dr. Meera Reddy,Squamous Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Himachal Pradesh,City A,+91 7626068409
+Dr. Rajesh Das,Adenocarcinoma,"Tue, Thu",Medanta Cancer Institute,Himachal Pradesh,City D,+91 8251477852
+Dr. Vikram Kumar,Adenocarcinoma,"Tue, Thu, Sat",HCG Cancer Centre,Jharkhand,City D,+91 9323049040
+Dr. Arjun Verma,Squamous Cell Carcinoma,Mon-Sat,AIIMS Cancer Center,Jharkhand,City D,+91 6503148412
+Dr. Suresh Gupta,Small Cell Lung Cancer,Mon-Sat,AIIMS Cancer Center,Jharkhand,City D,+91 6180206754
+Dr. Ramesh Gupta,Large Cell Carcinoma,"Tue, Thu, Sat",KIMS Hospital,Jharkhand,Town B,+91 9241286163
+Dr. Anjali Kumar,Small Cell Lung Cancer,"Tue, Thu, Sat",NIMS Hospital,Jharkhand,Town B,+91 7625455014
+Dr. Anjali Nair,Squamous Cell Carcinoma,"Tue, Thu",Medanta Cancer Institute,Jharkhand,Village C,+91 7573655140
+Dr. Ramesh Babu,Small Cell Lung Cancer,"Wed, Sat",HCG Cancer Centre,Jharkhand,Town E,+91 6255945317
+Dr. Sneha Kumar,Large Cell Carcinoma,"Mon, Wed, Fri",Tata Memorial Hospital,Jharkhand,City G,+91 9777795120
+Dr. Meera Das,Small Cell Lung Cancer,"Mon, Wed, Fri",Fortis Oncology Center,Jharkhand,City G,+91 6189769672
+Dr. Kavita Babu,Small Cell Lung Cancer,"Mon, Wed, Fri",Tata Memorial Hospital,Jharkhand,City G,+91 8274929821
+Dr. Prakash Babu,Squamous Cell Carcinoma,"Wed, Sat",Tata Memorial Hospital,Karnataka,City J,+91 6545789123
+Dr. Anjali Babu,Large Cell Carcinoma,"Tue, Thu",NIMS Hospital,Karnataka,Village I,+91 6716393012
+Dr. Suresh Gupta,Small Cell Lung Cancer,"Wed, Sat",HCG Cancer Centre,Karnataka,City D,+91 6827632609
+Dr. Suresh Verma,Squamous Cell Carcinoma,"Tue, Thu",Manipal Hospitals,Karnataka,City J,+91 7664116694
+Dr. Arjun Sharma,Small Cell Lung Cancer,"Wed, Sat",Fortis Oncology Center,Karnataka,City A,+91 9707551085
+Dr. Ramesh Das,Squamous Cell Carcinoma,"Tue, Thu",Fortis Oncology Center,Karnataka,City J,+91 6931053070
+Dr. Arjun Nair,Large Cell Carcinoma,"Tue, Thu",Apollo Cancer Institute,Karnataka,Village C,+91 8500134432
+Dr. Rajesh Reddy,Large Cell Carcinoma,"Wed, Sat",Manipal Hospitals,Karnataka,City A,+91 8562822546
+Dr. Meera Reddy,Adenocarcinoma,Mon-Sat,HCG Cancer Centre,Karnataka,Town H,+91 6590665178
+Dr. Ramesh Verma,Squamous Cell Carcinoma,"Wed, Sat",HCG Cancer Centre,Karnataka,Town B,+91 8001292935
+Dr. Arjun Nair,Squamous Cell Carcinoma,Mon-Sat,Medanta Cancer Institute,Kerala,City G,+91 8564651219
+Dr. Meera Verma,Adenocarcinoma,Mon-Sat,Medanta Cancer Institute,Kerala,City A,+91 9412043376
+Dr. Sneha Iyer,Large Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Kerala,Village I,+91 7165955449
+Dr. Sneha Reddy,Large Cell Carcinoma,"Wed, Sat",KIMS Hospital,Kerala,Village I,+91 7924134646
+Dr. Sneha Verma,Squamous Cell Carcinoma,"Mon, Wed, Fri",Apollo Cancer Institute,Kerala,Village F,+91 7426001945
+Dr. Prakash Sharma,Adenocarcinoma,Mon-Sat,Fortis Oncology Center,Kerala,Town H,+91 9091874289
+Dr. Meera Reddy,Small Cell Lung Cancer,Mon-Sat,Manipal Hospitals,Kerala,City D,+91 6827758522
+Dr. Meera Verma,Squamous Cell Carcinoma,"Mon, Wed, Fri",Medanta Cancer Institute,Kerala,City G,+91 6522376598
+Dr. Vikram Verma,Large Cell Carcinoma,Mon-Sat,Max Super Specialty Hospital,Kerala,Town E,+91 7344468980
+Dr. Meera Sharma,Adenocarcinoma,"Wed, Sat",NIMS Hospital,Kerala,City D,+91 7815522018
+Dr. Kavita Verma,Adenocarcinoma,"Mon, Wed, Fri",Tata Memorial Hospital,Madhya Pradesh,Village C,+91 6121509843
+Dr. Prakash Kumar,Small Cell Lung Cancer,Mon-Sat,AIIMS Cancer Center,Madhya Pradesh,Town E,+91 9341256981
+Dr. Suresh Verma,Adenocarcinoma,"Tue, Thu, Sat",Max Super Specialty Hospital,Madhya Pradesh,Village I,+91 8631014482
+Dr. Vikram Sharma,Small Cell Lung Cancer,"Tue, Thu",KIMS Hospital,Madhya Pradesh,City A,+91 8492820863
+Dr. Arjun Gupta,Adenocarcinoma,"Tue, Thu",Apollo Cancer Institute,Madhya Pradesh,City G,+91 9608061120
+Dr. Kavita Nair,Small Cell Lung Cancer,"Tue, Thu",Manipal Hospitals,Madhya Pradesh,Village I,+91 9970292834
+Dr. Rajesh Gupta,Small Cell Lung Cancer,"Tue, Thu, Sat",AIIMS Cancer Center,Madhya Pradesh,Town B,+91 9052839342
+Dr. Ramesh Babu,Large Cell Carcinoma,"Tue, Thu",Apollo Cancer Institute,Madhya Pradesh,City D,+91 9431382256
+Dr. Vikram Gupta,Small Cell Lung Cancer,"Wed, Sat",Manipal Hospitals,Madhya Pradesh,Town E,+91 8281776958
+Dr. Suresh Reddy,Small Cell Lung Cancer,"Tue, Thu, Sat",Max Super Specialty Hospital,Madhya Pradesh,Village I,+91 7219660360
+Dr. Vikram Nair,Adenocarcinoma,"Wed, Sat",Max Super Specialty Hospital,Maharashtra,Town B,+91 6214912780
+Dr. Anjali Kumar,Squamous Cell Carcinoma,"Mon, Wed, Fri",NIMS Hospital,Maharashtra,City D,+91 9275670947
+Dr. Kavita Patel,Adenocarcinoma,Mon-Sat,Fortis Oncology Center,Maharashtra,Village I,+91 7636475969
+Dr. Vikram Babu,Large Cell Carcinoma,"Tue, Thu, Sat",AIIMS Cancer Center,Maharashtra,Village F,+91 8151671245
+Dr. Rajesh Iyer,Small Cell Lung Cancer,"Mon, Wed, Fri",NIMS Hospital,Maharashtra,Village F,+91 9316721087
+Dr. Rajesh Gupta,Small Cell Lung Cancer,"Tue, Thu",Tata Memorial Hospital,Maharashtra,City D,+91 9902644088
+Dr. Prakash Reddy,Squamous Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Maharashtra,Village F,+91 6842775341
+Dr. Kavita Das,Squamous Cell Carcinoma,"Tue, Thu",KIMS Hospital,Maharashtra,City J,+91 9250598594
+Dr. Sneha Nair,Squamous Cell Carcinoma,"Tue, Thu",Manipal Hospitals,Maharashtra,Village F,+91 7336075636
+Dr. Rajesh Babu,Large Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Maharashtra,Village I,+91 6831949146
+Dr. Vikram Patel,Small Cell Lung Cancer,"Wed, Sat",Tata Memorial Hospital,Manipur,City G,+91 9823825878
+Dr. Suresh Patel,Squamous Cell Carcinoma,"Tue, Thu",Medanta Cancer Institute,Manipur,Town H,+91 9095344332
+Dr. Ramesh Verma,Adenocarcinoma,"Tue, Thu",AIIMS Cancer Center,Manipur,Village C,+91 6543731418
+Dr. Anjali Gupta,Squamous Cell Carcinoma,"Mon, Wed, Fri",Manipal Hospitals,Manipur,Village F,+91 7925260828
+Dr. Rajesh Iyer,Squamous Cell Carcinoma,"Wed, Sat",AIIMS Cancer Center,Manipur,Town E,+91 7532572886
+Dr. Sneha Gupta,Small Cell Lung Cancer,"Tue, Thu, Sat",Apollo Cancer Institute,Manipur,Town E,+91 7652969448
+Dr. Kavita Reddy,Squamous Cell Carcinoma,"Tue, Thu, Sat",Fortis Oncology Center,Manipur,Village I,+91 8289870645
+Dr. Anjali Das,Squamous Cell Carcinoma,"Mon, Wed, Fri",NIMS Hospital,Manipur,Village C,+91 9809246834
+Dr. Sneha Verma,Small Cell Lung Cancer,"Tue, Thu",Tata Memorial Hospital,Manipur,City A,+91 8153081634
+Dr. Ramesh Das,Squamous Cell Carcinoma,"Tue, Thu",Medanta Cancer Institute,Manipur,Town B,+91 6133968534
+Dr. Sneha Verma,Small Cell Lung Cancer,"Wed, Sat",Manipal Hospitals,Meghalaya,Village F,+91 7105424804
+Dr. Sneha Sharma,Adenocarcinoma,Mon-Sat,AIIMS Cancer Center,Meghalaya,City J,+91 9313973790
+Dr. Ramesh Gupta,Adenocarcinoma,Mon-Sat,AIIMS Cancer Center,Meghalaya,Village C,+91 6969100445
+Dr. Sneha Gupta,Squamous Cell Carcinoma,"Tue, Thu",HCG Cancer Centre,Meghalaya,City J,+91 7749090783
+Dr. Suresh Verma,Squamous Cell Carcinoma,"Tue, Thu",AIIMS Cancer Center,Meghalaya,Village C,+91 6235605838
+Dr. Arjun Nair,Small Cell Lung Cancer,"Mon, Wed, Fri",NIMS Hospital,Meghalaya,City A,+91 8189231504
+Dr. Anjali Kumar,Large Cell Carcinoma,Mon-Sat,Medanta Cancer Institute,Meghalaya,Village C,+91 9296154418
+Dr. Vikram Sharma,Squamous Cell Carcinoma,"Tue, Thu",KIMS Hospital,Meghalaya,City A,+91 9840005062
+Dr. Suresh Reddy,Small Cell Lung Cancer,"Tue, Thu, Sat",Fortis Oncology Center,Meghalaya,Village F,+91 9329990232
+Dr. Vikram Gupta,Large Cell Carcinoma,"Mon, Wed, Fri",Fortis Oncology Center,Meghalaya,City A,+91 8655447193
+Dr. Arjun Patel,Adenocarcinoma,"Wed, Sat",NIMS Hospital,Mizoram,Village C,+91 6484084704
+Dr. Rajesh Sharma,Adenocarcinoma,"Mon, Wed, Fri",HCG Cancer Centre,Mizoram,City D,+91 8120466204
+Dr. Kavita Kumar,Large Cell Carcinoma,"Tue, Thu",Tata Memorial Hospital,Mizoram,Town B,+91 7009898148
+Dr. Anjali Nair,Large Cell Carcinoma,"Tue, Thu, Sat",Manipal Hospitals,Mizoram,City A,+91 6939316498
+Dr. Rajesh Patel,Small Cell Lung Cancer,"Wed, Sat",AIIMS Cancer Center,Mizoram,City A,+91 8310835594
+Dr. Sneha Babu,Large Cell Carcinoma,"Tue, Thu",Tata Memorial Hospital,Mizoram,Village C,+91 7137205022
+Dr. Suresh Babu,Large Cell Carcinoma,"Mon, Wed, Fri",NIMS Hospital,Mizoram,City A,+91 6082630817
+Dr. Sneha Kumar,Squamous Cell Carcinoma,"Mon, Wed, Fri",Max Super Specialty Hospital,Mizoram,City A,+91 6895062116
+Dr. Meera Das,Squamous Cell Carcinoma,"Tue, Thu",Max Super Specialty Hospital,Mizoram,City G,+91 9229353288
+Dr. Anjali Babu,Small Cell Lung Cancer,"Tue, Thu",KIMS Hospital,Mizoram,City A,+91 9259563004
+Dr. Ramesh Gupta,Adenocarcinoma,"Tue, Thu",Tata Memorial Hospital,Nagaland,Town E,+91 9381797844
+Dr. Ramesh Verma,Small Cell Lung Cancer,"Tue, Thu",KIMS Hospital,Nagaland,City D,+91 8960608059
+Dr. Prakash Reddy,Adenocarcinoma,"Wed, Sat",KIMS Hospital,Nagaland,Village C,+91 7240590675
+Dr. Anjali Das,Adenocarcinoma,"Tue, Thu, Sat",Medanta Cancer Institute,Nagaland,City J,+91 8040435773
+Dr. Vikram Sharma,Adenocarcinoma,"Wed, Sat",Fortis Oncology Center,Nagaland,Town H,+91 7288740032
+Dr. Anjali Nair,Squamous Cell Carcinoma,"Wed, Sat",NIMS Hospital,Nagaland,Town E,+91 9488448069
+Dr. Suresh Kumar,Large Cell Carcinoma,"Tue, Thu, Sat",Tata Memorial Hospital,Nagaland,Town B,+91 6889612601
+Dr. Prakash Patel,Adenocarcinoma,"Tue, Thu",HCG Cancer Centre,Nagaland,Town H,+91 7513699539
+Dr. Sneha Reddy,Squamous Cell Carcinoma,Mon-Sat,AIIMS Cancer Center,Nagaland,City D,+91 6198346437
+Dr. Sneha Das,Small Cell Lung Cancer,"Tue, Thu",KIMS Hospital,Nagaland,City D,+91 6725675007
+Dr. Suresh Iyer,Large Cell Carcinoma,"Wed, Sat",Manipal Hospitals,Odisha,Village C,+91 8081143473
+Dr. Anjali Das,Small Cell Lung Cancer,"Mon, Wed, Fri",NIMS Hospital,Odisha,Town E,+91 8062657454
+Dr. Suresh Verma,Small Cell Lung Cancer,"Tue, Thu",Tata Memorial Hospital,Odisha,City D,+91 6248600968
+Dr. Sneha Gupta,Small Cell Lung Cancer,"Mon, Wed, Fri",AIIMS Cancer Center,Odisha,City J,+91 9169466019
+Dr. Rajesh Nair,Small Cell Lung Cancer,Mon-Sat,KIMS Hospital,Odisha,City J,+91 8240025256
+Dr. Prakash Das,Adenocarcinoma,Mon-Sat,KIMS Hospital,Odisha,City A,+91 9372854879
+Dr. Sneha Sharma,Small Cell Lung Cancer,"Mon, Wed, Fri",Max Super Specialty Hospital,Odisha,Village F,+91 6272993177
+Dr. Arjun Sharma,Adenocarcinoma,"Tue, Thu, Sat",Manipal Hospitals,Odisha,Town E,+91 9109249020
+Dr. Vikram Verma,Small Cell Lung Cancer,"Tue, Thu, Sat",AIIMS Cancer Center,Odisha,Village F,+91 8373076287
+Dr. Meera Sharma,Squamous Cell Carcinoma,"Mon, Wed, Fri",HCG Cancer Centre,Odisha,City D,+91 9163246057
+Dr. Prakash Iyer,Large Cell Carcinoma,Mon-Sat,Manipal Hospitals,Punjab,City A,+91 8537649716
+Dr. Vikram Reddy,Small Cell Lung Cancer,"Wed, Sat",Medanta Cancer Institute,Punjab,City G,+91 9835901943
+Dr. Rajesh Iyer,Large Cell Carcinoma,"Tue, Thu, Sat",Medanta Cancer Institute,Punjab,Village F,+91 6433664650
+Dr. Prakash Verma,Large Cell Carcinoma,"Tue, Thu, Sat",KIMS Hospital,Punjab,Village C,+91 7930494238
+Dr. Prakash Nair,Adenocarcinoma,"Wed, Sat",Fortis Oncology Center,Punjab,City D,+91 8502962760
+Dr. Arjun Das,Adenocarcinoma,"Mon, Wed, Fri",KIMS Hospital,Punjab,City D,+91 8320838307
+Dr. Arjun Gupta,Squamous Cell Carcinoma,Mon-Sat,AIIMS Cancer Center,Punjab,Village C,+91 8904113736
+Dr. Rajesh Gupta,Large Cell Carcinoma,Mon-Sat,HCG Cancer Centre,Punjab,Village I,+91 7709509409
+Dr. Anjali Das,Squamous Cell Carcinoma,"Tue, Thu, Sat",Manipal Hospitals,Punjab,Town E,+91 9412276218
+Dr. Vikram Verma,Large Cell Carcinoma,Mon-Sat,NIMS Hospital,Punjab,Village F,+91 9925170158
+Dr. Meera Gupta,Large Cell Carcinoma,"Tue, Thu, Sat",Tata Memorial Hospital,Rajasthan,Town B,+91 8126524040
+Dr. Kavita Nair,Small Cell Lung Cancer,"Mon, Wed, Fri",Medanta Cancer Institute,Rajasthan,City D,+91 6634191428
+Dr. Arjun Reddy,Small Cell Lung Cancer,"Tue, Thu",Max Super Specialty Hospital,Rajasthan,Town H,+91 7548448444
+Dr. Meera Kumar,Squamous Cell Carcinoma,Mon-Sat,Max Super Specialty Hospital,Rajasthan,City G,+91 7201336306
+Dr. Kavita Gupta,Small Cell Lung Cancer,"Tue, Thu",HCG Cancer Centre,Rajasthan,City G,+91 7903191076
+Dr. Prakash Gupta,Squamous Cell Carcinoma,"Tue, Thu",Max Super Specialty Hospital,Rajasthan,Town E,+91 6757715601
+Dr. Sneha Kumar,Small Cell Lung Cancer,"Mon, Wed, Fri",Manipal Hospitals,Rajasthan,Village I,+91 9633136008
+Dr. Kavita Iyer,Large Cell Carcinoma,"Mon, Wed, Fri",Manipal Hospitals,Rajasthan,Town B,+91 8776676869
+Dr. Kavita Verma,Squamous Cell Carcinoma,"Tue, Thu, Sat",HCG Cancer Centre,Rajasthan,Village C,+91 6564135943
+Dr. Anjali Gupta,Large Cell Carcinoma,"Wed, Sat",Apollo Cancer Institute,Rajasthan,Town B,+91 8509387229
+Dr. Arjun Reddy,Adenocarcinoma,"Tue, Thu",AIIMS Cancer Center,Sikkim,Village F,+91 6810610319
+Dr. Suresh Kumar,Large Cell Carcinoma,"Tue, Thu",Fortis Oncology Center,Sikkim,Town H,+91 8725293256
+Dr. Anjali Kumar,Adenocarcinoma,Mon-Sat,Max Super Specialty Hospital,Sikkim,City D,+91 8326108781
+Dr. Prakash Kumar,Large Cell Carcinoma,"Tue, Thu",Manipal Hospitals,Sikkim,Town H,+91 9773061878
+Dr. Sneha Nair,Small Cell Lung Cancer,Mon-Sat,HCG Cancer Centre,Sikkim,Village C,+91 7848981486
+Dr. Sneha Kumar,Squamous Cell Carcinoma,"Tue, Thu, Sat",Tata Memorial Hospital,Sikkim,Village F,+91 9888452572
+Dr. Sneha Das,Squamous Cell Carcinoma,"Tue, Thu",Max Super Specialty Hospital,Sikkim,Village C,+91 8312989849
+Dr. Meera Verma,Squamous Cell Carcinoma,"Wed, Sat",Fortis Oncology Center,Sikkim,City J,+91 7521373131
+Dr. Sneha Iyer,Adenocarcinoma,"Wed, Sat",Apollo Cancer Institute,Sikkim,Town B,+91 8559354048
+Dr. Ramesh Verma,Large Cell Carcinoma,Mon-Sat,KIMS Hospital,Sikkim,Village I,+91 9554857053
+Dr. Ramesh Babu,Adenocarcinoma,"Mon, Wed, Fri",Medanta Cancer Institute,Tamil Nadu,City J,+91 7058227830
+Dr. Meera Patel,Adenocarcinoma,"Tue, Thu, Sat",Manipal Hospitals,Tamil Nadu,City D,+91 8599022938
+Dr. Meera Gupta,Squamous Cell Carcinoma,"Wed, Sat",NIMS Hospital,Tamil Nadu,Village F,+91 9873636284
+Dr. Anjali Sharma,Small Cell Lung Cancer,"Mon, Wed, Fri",Apollo Cancer Institute,Tamil Nadu,Village C,+91 6415852831
+Dr. Ramesh Babu,Large Cell Carcinoma,"Tue, Thu",HCG Cancer Centre,Tamil Nadu,Town H,+91 8643106005
+Dr. Ramesh Nair,Large Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Tamil Nadu,Town E,+91 7199550208
+Dr. Ramesh Kumar,Large Cell Carcinoma,"Mon, Wed, Fri",KIMS Hospital,Tamil Nadu,City A,+91 9201823325
+Dr. Vikram Iyer,Large Cell Carcinoma,"Tue, Thu",HCG Cancer Centre,Tamil Nadu,Town B,+91 9509737641
+Dr. Anjali Babu,Large Cell Carcinoma,Mon-Sat,Manipal Hospitals,Tamil Nadu,Village I,+91 8246500931
+Dr. Ramesh Kumar,Adenocarcinoma,"Wed, Sat",Medanta Cancer Institute,Tamil Nadu,City G,+91 9469067175
+Dr. Rajesh Kumar,Small Cell Lung Cancer,"Wed, Sat",Max Super Specialty Hospital,Telangana,City A,+91 8077228896
+Dr. Ramesh Verma,Adenocarcinoma,"Tue, Thu, Sat",Manipal Hospitals,Telangana,City J,+91 7130694571
+Dr. Meera Iyer,Small Cell Lung Cancer,"Tue, Thu",Manipal Hospitals,Telangana,City D,+91 8197418588
+Dr. Arjun Das,Adenocarcinoma,Mon-Sat,HCG Cancer Centre,Telangana,City J,+91 7629329540
+Dr. Vikram Gupta,Squamous Cell Carcinoma,Mon-Sat,Medanta Cancer Institute,Telangana,City G,+91 8665706490
+Dr. Arjun Babu,Small Cell Lung Cancer,Mon-Sat,Medanta Cancer Institute,Telangana,Town H,+91 7148358469
+Dr. Vikram Gupta,Adenocarcinoma,"Wed, Sat",Fortis Oncology Center,Telangana,City A,+91 8275766373
+Dr. Rajesh Nair,Adenocarcinoma,Mon-Sat,Manipal Hospitals,Telangana,City D,+91 9813605409
+Dr. Sneha Patel,Large Cell Carcinoma,"Wed, Sat",AIIMS Cancer Center,Telangana,City A,+91 7897730002
+Dr. Anjali Kumar,Small Cell Lung Cancer,"Tue, Thu, Sat",Medanta Cancer Institute,Telangana,City A,+91 8325132894
+Dr. Rajesh Babu,Small Cell Lung Cancer,"Tue, Thu",Medanta Cancer Institute,Tripura,Village F,+91 7675264415
+Dr. Kavita Reddy,Small Cell Lung Cancer,"Wed, Sat",Manipal Hospitals,Tripura,City J,+91 8314035842
+Dr. Ramesh Sharma,Small Cell Lung Cancer,"Tue, Thu, Sat",Tata Memorial Hospital,Tripura,Village C,+91 7761109834
+Dr. Meera Reddy,Adenocarcinoma,"Wed, Sat",NIMS Hospital,Tripura,Town E,+91 6961347733
+Dr. Arjun Patel,Small Cell Lung Cancer,Mon-Sat,Apollo Cancer Institute,Tripura,City A,+91 9040407391
+Dr. Anjali Gupta,Small Cell Lung Cancer,"Tue, Thu",Medanta Cancer Institute,Tripura,City J,+91 8141123630
+Dr. Vikram Patel,Large Cell Carcinoma,"Mon, Wed, Fri",Tata Memorial Hospital,Tripura,City G,+91 9494451702
+Dr. Sneha Babu,Adenocarcinoma,"Wed, Sat",HCG Cancer Centre,Tripura,Village C,+91 8799887575
+Dr. Prakash Reddy,Squamous Cell Carcinoma,"Mon, Wed, Fri",Fortis Oncology Center,Tripura,Village I,+91 6587660641
+Dr. Kavita Kumar,Adenocarcinoma,"Tue, Thu, Sat",Manipal Hospitals,Tripura,Village F,+91 6420591845
+Dr. Suresh Reddy,Large Cell Carcinoma,"Wed, Sat",Medanta Cancer Institute,Uttar Pradesh,Village I,+91 8018179999
+Dr. Rajesh Kumar,Small Cell Lung Cancer,"Wed, Sat",Tata Memorial Hospital,Uttar Pradesh,Village C,+91 7063303729
+Dr. Rajesh Iyer,Adenocarcinoma,"Mon, Wed, Fri",Manipal Hospitals,Uttar Pradesh,Village I,+91 8718094180
+Dr. Kavita Nair,Large Cell Carcinoma,"Mon, Wed, Fri",NIMS Hospital,Uttar Pradesh,Town E,+91 7493469419
+Dr. Suresh Iyer,Small Cell Lung Cancer,"Tue, Thu",Medanta Cancer Institute,Uttar Pradesh,City D,+91 8142444832
+Dr. Meera Patel,Adenocarcinoma,"Tue, Thu",AIIMS Cancer Center,Uttar Pradesh,City G,+91 8067546014
+Dr. Ramesh Gupta,Large Cell Carcinoma,Mon-Sat,Fortis Oncology Center,Uttar Pradesh,City J,+91 7176816359
+Dr. Suresh Sharma,Squamous Cell Carcinoma,"Tue, Thu, Sat",HCG Cancer Centre,Uttar Pradesh,Town H,+91 7298345084
+Dr. Rajesh Nair,Adenocarcinoma,"Mon, Wed, Fri",Manipal Hospitals,Uttar Pradesh,City G,+91 6979323528
+Dr. Vikram Patel,Small Cell Lung Cancer,Mon-Sat,Medanta Cancer Institute,Uttar Pradesh,City J,+91 6804259029
+Dr. Kavita Patel,Large Cell Carcinoma,Mon-Sat,HCG Cancer Centre,Uttarakhand,City G,+91 6799189893
+Dr. Rajesh Das,Squamous Cell Carcinoma,"Wed, Sat",HCG Cancer Centre,Uttarakhand,City A,+91 8547750113
+Dr. Meera Verma,Large Cell Carcinoma,"Tue, Thu, Sat",Max Super Specialty Hospital,Uttarakhand,Village C,+91 6180137691
+Dr. Sneha Kumar,Squamous Cell Carcinoma,"Tue, Thu, Sat",KIMS Hospital,Uttarakhand,City J,+91 6632476184
+Dr. Arjun Gupta,Large Cell Carcinoma,"Wed, Sat",KIMS Hospital,Uttarakhand,City G,+91 7238287650
+Dr. Anjali Verma,Adenocarcinoma,"Tue, Thu, Sat",Max Super Specialty Hospital,Uttarakhand,Village I,+91 7125232808
+Dr. Ramesh Nair,Squamous Cell Carcinoma,Mon-Sat,Manipal Hospitals,Uttarakhand,Town E,+91 7170143374
+Dr. Prakash Nair,Squamous Cell Carcinoma,Mon-Sat,KIMS Hospital,Uttarakhand,Village F,+91 7047971257
+Dr. Prakash Das,Large Cell Carcinoma,"Mon, Wed, Fri",Medanta Cancer Institute,Uttarakhand,Town B,+91 8644771460
+Dr. Arjun Gupta,Large Cell Carcinoma,"Mon, Wed, Fri",AIIMS Cancer Center,Uttarakhand,Town B,+91 8319459526
+Dr. Meera Verma,Squamous Cell Carcinoma,"Tue, Thu, Sat",Apollo Cancer Institute,West Bengal,City J,+91 6455768391
+Dr. Vikram Sharma,Large Cell Carcinoma,"Mon, Wed, Fri",KIMS Hospital,West Bengal,Village F,+91 9421942868
+Dr. Ramesh Patel,Squamous Cell Carcinoma,Mon-Sat,KIMS Hospital,West Bengal,Village C,+91 8937198836
+Dr. Prakash Verma,Large Cell Carcinoma,Mon-Sat,Fortis Oncology Center,West Bengal,City G,+91 9232669037
+Dr. Sneha Kumar,Squamous Cell Carcinoma,"Tue, Thu, Sat",Max Super Specialty Hospital,West Bengal,Village I,+91 9590163221
+Dr. Suresh Kumar,Small Cell Lung Cancer,"Tue, Thu, Sat",Tata Memorial Hospital,West Bengal,Village I,+91 6576298341
+Dr. Arjun Sharma,Squamous Cell Carcinoma,"Wed, Sat",HCG Cancer Centre,West Bengal,Town H,+91 9942938219
+Dr. Sneha Kumar,Squamous Cell Carcinoma,"Mon, Wed, Fri",AIIMS Cancer Center,West Bengal,Village F,+91 6016829485
+Dr. Kavita Babu,Adenocarcinoma,"Wed, Sat",Fortis Oncology Center,West Bengal,City D,+91 6760479714
+Dr. Prakash Das,Squamous Cell Carcinoma,Mon-Sat,Max Super Specialty Hospital,West Bengal,Town H,+91 8309327038
+Dr. Arjun Verma,Adenocarcinoma,"Tue, Thu",KIMS Hospital,Delhi,City A,+91 7480956432
+Dr. Rajesh Babu,Adenocarcinoma,Mon-Sat,Manipal Hospitals,Delhi,City J,+91 8384611615
+Dr. Arjun Babu,Squamous Cell Carcinoma,"Tue, Thu",Tata Memorial Hospital,Delhi,Town E,+91 9982656515
+Dr. Arjun Nair,Large Cell Carcinoma,Mon-Sat,Manipal Hospitals,Delhi,Village I,+91 8878016533
+Dr. Meera Gupta,Large Cell Carcinoma,"Mon, Wed, Fri",Tata Memorial Hospital,Delhi,Town H,+91 6901298572
+Dr. Kavita Babu,Large Cell Carcinoma,"Tue, Thu, Sat",Tata Memorial Hospital,Delhi,City J,+91 7459689373
+Dr. Vikram Das,Large Cell Carcinoma,"Tue, Thu",AIIMS Cancer Center,Delhi,Town E,+91 6907054300
+Dr. Vikram Reddy,Large Cell Carcinoma,"Wed, Sat",Max Super Specialty Hospital,Delhi,City J,+91 9923700656
+Dr. Suresh Das,Large Cell Carcinoma,"Mon, Wed, Fri",Apollo Cancer Institute,Delhi,Village F,+91 7817615521
+Dr. Arjun Babu,Adenocarcinoma,"Mon, Wed, Fri",Apollo Cancer Institute,Delhi,Town H,+91 8842963913
